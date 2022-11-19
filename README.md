@@ -6,3 +6,7 @@ C#でコマンドライン引数を解析するサンプルプロジェクト。
 ## 補足
 
 [Microsoft.Extensions.CommandLineUtils](https://www.nuget.org/packages/Microsoft.Extensions.CommandLineUtils)は既に非推奨。  
+
+## 参考文献
+
+- <https://learn.microsoft.com/ja-jp/dotnet/api/microsoft.extensions.configuration.commandlineconfigurationextensions.addcommandline?view=dotnet-plat-ext-7.0>
