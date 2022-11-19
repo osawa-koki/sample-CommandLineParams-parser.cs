@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "sample-CommandLineParams-parser.cs": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
